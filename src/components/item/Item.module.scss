@@ -1,0 +1,21 @@
+.item {
+    @apply hidden items-center justify-start w-full text-xs sm:hidden md:flex md:text-xl lg:flex
+}
+
+.item:hover .image {
+    @apply scale-110;
+}
+
+.image {
+    @apply w-5 h-5 lg:w-8 lg:h-8
+}
+
+.text {
+    @apply text-black ml-2.5 text-sm whitespace-normal text-ellipsis block;
+
+    @apply md:whitespace-nowrap md:text-base;
+
+    @apply xl:text-base;
+
+    @apply 2xl:text-2xl
+}

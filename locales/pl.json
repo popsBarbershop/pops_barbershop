@@ -1,0 +1,65 @@
+{
+	"languages": {
+		"label": "Język",
+		"en": "Angielski",
+		"pl": "Polski"
+	},
+	"header": {
+		"street": "aleja Jana Pawla II, 45A",
+		"details": "2 piętro, biuro 53A",
+		"open": "Pon-Sob 09:00-21:00"
+	},
+	"menu": {
+		"home": "Dom",
+		"services": "Usługi",
+		"portfolio": "Portfolio",
+		"about": "Co mówią klienci?",
+		"team": "Nasz zespół",
+		"place": "Nasze miejsce",
+		"map": "Znajdź nas na mapie",
+		"address": "aleja Jana Pawla II, 45A, 2 piętro, biuro 53A",
+		"open": "Godziny otwarcia: Pon-Sob 09:00-21:00",
+		"number": "Zadzwoń do nas:"
+	},
+	"main": {
+		"button": "ZAREZERWUJ WIZYTĘ"
+	},
+	"services": {
+		"label": "POPULARNE USŁUGI",
+		"haircut_name": "Strzyżenie męskie",
+		"haircut_price": "120zl",
+		"haircut_time": "1g",
+		"combo_name": "Głowa + broda",
+		"combo_price": "170zl",
+		"combo_time": "1g30m",
+		"perm_name": "Trwala + strzyżenie",
+		"perm_price": "350zl",
+		"perm_time": "3g+",
+		"button": "ZAREZERWUJ WIZYTĘ"
+	},
+	"portfolio": {
+		"label": "PORTFOLIO"
+	},
+	"about": {
+		"label": "CO MÓWIĄ KLIENCI?"
+	},
+	"team": {
+		"label": "NASZ ZESPÓŁ",
+		"artiom_descr": "Artem to profesjonalista z wieloletnim doświadczeniem i dbałością o każdego klienta. Wyróżnia go mistrzostwo w strzyżeniu i stylizacji zarostu. Dla Artema ważne jest, aby klient wyszedł nie tylko z idealną fryzurą, ale także z dobrym nastrojem. Zawsze chętnie omawia nowe pomysły i pomaga stworzyć niepowtarzalny styl.",
+		"roman_descr": "Z 8-letnim doświadczeniem, Roman specjalizuje się w klasycznych fryzurach i współczesnych stylach. Dostosowuje wygląd, który podkreśla indywidualność i zawsze skrupulatnie dopracowuje szczegóły. Roman ceni sobie komunikację ze swoimi klientami i tworzy atmosferę, w której każdy czuje się komfortowo.",
+		"eugen_descr": "4 lata doświadczenia, ale prawdziwy profesjonalista. Eugeniusz dąży do perfekcji w każdym ruchu, jest ostrożny i zwraca uwagę na szczegóły. Znajduje podejście nawet do najbardziej wymagających klientów i lubi eksperymentować ze stylami, aby podkreślić indywidualność.",
+		"nikos_descr": "Dzięki 8-letniemu doświadczeniu Nikos łączy europejskie tradycje z nowoczesnymi technikami. Jego styl pracy to harmonia precyzji i kreatywności. Nikos wie, jak podkreślić rysy twarzy i stworzyć styl, który wygląda harmonijnie. Uważny i towarzyski, szybko znajduje wspólny język z klientami.",
+		"langs": "Polski, Angielski, Ukraiński, Rosyjski",
+		"langs_text": "Języki: ",
+		"button": "ZAREZERWUJ WIZYTĘ"
+	},
+	"place": {
+		"label": "NASZE MIEJSCE"
+	},
+	"footer": {
+		"address": "aleja Jana Pawla II, 45A, 2 piętro, biuro 53A",
+		"open": "Godziny otwarcia: Pon-Sob 09:00-21:00",
+		"number": "Zadzwoń do nas:",
+		"socials": "Śledź nas"
+	}
+}

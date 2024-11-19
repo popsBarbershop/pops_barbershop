@@ -1,0 +1,40 @@
+.member {
+  @apply flex flex-col p-5 text-white justify-center items-center gap-10;
+
+  @apply lg:flex-row lg:p-14 lg:max-h-[600px];
+}
+
+.content {
+  @apply flex flex-col justify-center items-center text-center gap-5;
+
+  @apply lg:text-left lg:justify-between lg:items-center lg:h-full;
+
+  @apply 2xl:gap-10 2xl:items-start 2xl:min-h-full 2xl:justify-between;
+}
+
+.image {
+  @apply max-h-full max-w-full;
+
+  @apply lg:max-h-[480px] lg:max-w-[388px];
+}
+
+.description {
+  @apply text-lg font-semibold;
+
+  @apply xl:text-2xl;
+
+}
+
+.languages {
+  @apply text-2xl font-semibold flex flex-row gap-10;
+
+  @apply xl:text-left;
+}
+
+.button {
+  @apply transition duration-500 transform text-center font-bold text-2xl text-white bg-green-600 min-h-[80px] min-w-[333px]
+}
+
+.button:hover {
+  @apply scale-105 bg-green-700 transition duration-500 transform
+}

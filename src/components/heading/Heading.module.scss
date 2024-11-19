@@ -1,0 +1,8 @@
+.content{
+  @apply min-w-full text-center text-2xl mt-10 lg:text-5xl lg:mt-12;
+}
+
+.text{
+  -webkit-text-stroke: 0.5px white;
+  @apply text-transparent font-black
+}

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Nexa Rust Slab';
+  src: url('../../../public/fonts/nexa-rust.slab-black-shadow-01.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.logo{
+  @apply flex items-center justify-center
+}
+
+.image{
+  @apply max-w-9 max-h-9 lg:max-w-16 lg:max-h-16
+}
+
+.text{
+  font-family: 'Nexa Rust Slab';
+  @apply text-black ml-2.5 text-base lg:text-4xl
+}

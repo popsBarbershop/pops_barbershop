@@ -1,0 +1,68 @@
+@import "../../styles/mixins";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$background-color: #ffffff;
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  @apply box-border
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: $background-color;
+  font-family: 'Montserrat', sans-serif;
+  @apply text-base text-white
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+
+@layer utilities {
+  .text-stroke-white {
+    -webkit-text-stroke: 1px white;
+  }
+}
+
+.container {
+  @apply min-w-full px-5 lg:px-32;
+}
+
+.embla {
+  @apply mx-auto mt-12 overflow-hidden text-black
+}
+
+.embla__container {
+  @apply flex h-full
+}
+
+.embla__slide {
+  flex: 0 0 100%;
+  @apply min-w-0 flex items-center justify-center
+}

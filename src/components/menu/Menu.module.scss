@@ -1,0 +1,15 @@
+.modal{
+  @apply absolute top-0 left-0 min-w-full min-h-full bg-black z-20 opacity-35 overflow-hidden
+}
+
+.no-scroll{
+  @apply overflow-hidden
+}
+
+.open{
+  @apply block
+}
+
+.close{
+  @apply hidden
+}

@@ -1,0 +1,29 @@
+.footer {
+  @apply bg-[#303841]
+}
+
+.content {
+  @apply flex flex-col items-start py-6 md:flex-row md:items-center md:justify-between md:py-10
+}
+
+.block {
+  @apply grid grid-rows-4 gap-3;
+
+  @apply md:grid-rows-2 md:grid-cols-2;
+}
+
+.icon {
+  @apply w-8 h-8 lg:w-12 lg:h-12
+}
+
+.icon:hover {
+  @apply scale-110
+}
+
+.socials {
+  @apply flex flex-row justify-center items-center text-xs mt-3 md:mt-0 lg:text-xl
+}
+
+.socialsItems {
+  @apply flex flex-row ml-6
+}

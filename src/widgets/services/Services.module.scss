@@ -1,0 +1,11 @@
+.list{
+  @apply flex flex-col justify-between items-center mt-16 gap-6 md:flex-row lg:flex-row
+}
+
+.content{
+  @apply flex justify-between items-center mt-8 lg:mt-16;
+}
+
+.image{
+  @apply max-w-[400px] max-h-[1016px]
+}

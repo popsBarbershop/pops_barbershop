@@ -1,0 +1,65 @@
+{
+	"languages": {
+		"label": "Language",
+		"en": "English",
+		"pl": "Polish"
+	},
+	"header": {
+		"street": "aleja Jana Pawla II, 45A",
+		"details": "2nd floor, office 53A",
+		"open": "Mon-Sat 09:00-21:00"
+	},
+	"menu": {
+		"home": "Home",
+		"services": "Services",
+		"portfolio": "Portfolio",
+		"about": "What clients say?",
+		"team": "Our team",
+		"place": "Our place",
+		"map": "Find us on the map",
+		"address": "aleja Jana Pawla II, 45A, 2nd floor, office 53A",
+		"open": "Opening hours: Mon-Sat 09:00-21:00",
+		"number": "Call us:"
+	},
+	"main": {
+		"button": "BOOK MY VISIT"
+	},
+	"services": {
+		"label": "POPULAR SERVICES",
+		"haircut_name": "Haircut",
+		"haircut_price": "120 zl",
+		"haircut_time": "1h",
+		"combo_name": "Haircut + Beard",
+		"combo_price": "170 zl",
+		"combo_time": "1h30m",
+		"perm_name": "Perm + Haircut",
+		"perm_price": "350 zl",
+		"perm_time": "3h+",
+		"button": "BOOK MY VISIT"
+	},
+	"portfolio": {
+		"label": "PORTFOLIO"
+	},
+	"about": {
+		"label": "WHAT CLIENTS SAY?"
+	},
+	"team": {
+		"label": "OUR TEAM",
+		"artiom_descr": "Artem is a professional with years of experience and attention to each client. He is distinguished by his skill in fade cuts and beard design. For Artem it is important that the client leaves not only with a perfect haircut, but also with a good mood. He is always happy to discuss new ideas and help to create a unique style.",
+		"roman_descr": "With 8 years of experience, Roman specializes in classic haircuts and modern styles. He tailors a look that emphasizes individuality and always works meticulously on details. Roman values communication with his clients and creates an atmosphere where everyone feels comfortable.",
+		"eugen_descr": "4 years of experience, but a true professional. Eugene strives for perfection in every movement, is careful and attentive to details. He finds an approach to even the most demanding clients and likes to experiment with styles to emphasize individuality.",
+		"langs": "Polish, English, Ukrainian, Russian",
+		"nikos_descr": "With 8 years of experience, Nikos combines European traditions with modern techniques. His style of work is a harmony of precision and creativity. Nikos knows perfectly how to emphasize facial features and create a style that looks harmonious. Attentive and sociable, he quickly finds a common language with clients.",
+		"langs_text": "Languages: ",
+		"button": "BOOK MY VISIT"
+	},
+	"place": {
+		"label": "OUR PLACE"
+	},
+	"footer": {
+		"address": "aleja Jana Pawla II, 45A, 2nd floor, office 53A",
+		"open": "Opening hours: Mon-Sat 09:00-21:00",
+		"number": "Call us:",
+		"socials": "Follow us"
+	}
+}
